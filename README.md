@@ -1,4 +1,4 @@
-## Hi there 👋
+I really like 67 jokes and math
 
 <!--
 **Bengallagher0/Bengallagher0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
